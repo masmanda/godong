@@ -1,0 +1,2 @@
+# godong
+totally newbie miner
